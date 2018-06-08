@@ -42,8 +42,9 @@ jsonapi()->register([
 				$json['1-projects'][$project->uid()] = array(
 					'url' => (string)$project->url(),
 					'uri' => (string)$project->uri(),
+					"size" => (string)$project->sizing(),
 					'title' => (string)$project->title(),
-					'text' => (string)$project->text(),
+					'text' => (string)$project->text()->kirbytext(),
 					'images' => $images,
 					'thumbs' => $thumbs,
 				);
