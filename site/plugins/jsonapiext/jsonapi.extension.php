@@ -23,6 +23,8 @@ jsonapi()->register([
 					$images[$n] = array(
 						"url" => $img->url(), 
 						"num" => (string)$n,
+						"orientation" => (string)$img->orientation(),
+						"ratio" => (string)$img->ratio(),
 						"size" => (string)$img->sizing(),
 						"bgcolor" => (string)$img->bgcolor(),
 					);
