@@ -1,0 +1,127 @@
+Title: Information
+
+----
+
+Text: 
+
+----
+
+Street: Walchenseeplatz 11
+
+----
+
+Postcode: 81539
+
+----
+
+City: Munich
+
+----
+
+Country: Germany
+
+----
+
+Phone: 0049 89–88902418
+
+----
+
+Mail: info@johannesbissinger.com
+
+----
+
+About: Johannes Bissinger (MA from ZHdK in Zurich, 2010) runs a design practice in Munich. The Studio is working for clients in cultural domain: books, catalogues, visual identities and exhibitions — and its digital pendants. The content- driven design solutions have been awarded prizes in national/international competitions.
+
+----
+
+Clients: 
+
+- 
+  client: Archive Artist Publications
+  city: Munich
+- 
+  client: Bauhaus Dessau Foundation
+  city: Dessau
+- 
+  client: Bayerische Staatsbibliothek
+  city: Munich
+- 
+  client: >
+    DG – Deutsche Gesellschaft für
+    christliche Kunst
+  city: Munich
+- 
+  client: Deutsche Meisterschule für Mode
+  city: Munich
+- 
+  client: Die Fadenspule
+  city: Zurich
+- 
+  client: Diözesanmuseum
+  city: Freising
+- 
+  client: Freunde des Sechzgerstadions
+  city: Munich
+- 
+  client: Germanisches Nationalmuseum
+  city: Nuremberg
+- 
+  client: Hecht Richter
+  city: Hamburg
+- 
+  client: Heuer am Karlsplatz
+  city: Vienna
+- 
+  client: Hochschule München, FAK12
+  city: Munich
+- 
+  client: Icon Verlag
+  city: Munich
+- 
+  client: Kunstverein München
+  city: Munich
+- 
+  client: Landeshauptstadt München
+  city: Munich
+- 
+  client: Ludwig–Maximilian Universität
+  city: Munich
+- 
+  client: Martin Fengel
+  city: Munich
+- 
+  client: Morisson Club
+  city: Vienna
+- 
+  client: Museum FC Zürich
+  city: Zurich
+- 
+  client: Museum für Gestaltung
+  city: Zurich
+- 
+  client: Neues Museum
+  city: Nuremberg
+- 
+  client: OK–Landschaftsarchitekten
+  city: Munich
+- 
+  client: Olaf Metzel
+  city: Munich
+- 
+  client: Residenztheater
+  city: Munich
+- 
+  client: Stiftung Buchkunst
+  city: Frankfurt/Leipzig
+- 
+  client: Verlag Antje Kunstmann
+  city: Munich
+- 
+  client: Verlag für moderne Kunst
+  city: Vienna
+- 
+  client: Zürcher Hochschule der Künste ZHdK
+  city: Zurich
+- 
+  client: Zentralinstitut für Kunstgeschichte
+  city: Munich

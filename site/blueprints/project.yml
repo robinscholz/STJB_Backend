@@ -1,0 +1,37 @@
+title: Project
+pages: false
+files:
+  fields:
+    sizing:
+      label: Image size
+      type: select
+      default: contained
+      options:
+        contained: Contained
+        fullscreen: Fullscreen
+    bgcolor:
+      label: Background color
+      type: select
+      default: black
+      options:
+        black: Black
+        white: White
+options:
+  template: false
+  preview: false
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Project info
+    type: textarea
+  sizing:
+    label: Project size
+    type: select
+    default: medium
+    options:
+      small: Small
+      medium: Medium
+      large: Large
+      thumbs: Thumbnails

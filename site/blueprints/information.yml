@@ -1,0 +1,52 @@
+title: Information
+pages: false
+files: false
+options:
+  status: false
+  template: false
+  url: false
+  preview: false
+  delete: false
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true
+  street:
+    label: Street and Number
+    type: text
+  postcode:
+    label: Postcode
+    type: text
+    width: 1/3
+  city:
+    label: City
+    type: text
+    width: 1/3
+  country:
+    label: Country
+    type: text
+    width: 1/3
+  phone:
+    label: Phone
+    type: tel
+    width: 1/2
+  mail:
+    label: e-Mail
+    type: email
+    width: 1/2
+  about:
+    label: About
+    type:  textarea
+  clients:
+    label: Clients
+    type: structure
+    style: table
+    fields:
+      client:
+        label: Client
+        type: text
+      city:
+        label: City
+        type: text
+

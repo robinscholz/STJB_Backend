@@ -1,0 +1,15 @@
+title: Projects
+pages:
+  template: project
+files: false
+options:
+  status: false
+  template: false
+  url: false
+  preview: false
+  delete: false
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true
