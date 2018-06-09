@@ -1,0 +1,16 @@
+{
+    "name": "robinscholz/stjb_backend",
+    "description": "Kirby powered backend for Studio Johannes Bissinger",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Studio Scholz",
+            "email": "dev@studioscholz.info"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "ext-mbstring": "^7.1",
+        "ext-curl": "^7.1"
+    }
+}
