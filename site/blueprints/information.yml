@@ -46,7 +46,7 @@ fields:
       client:
         label: Client
         type: text
-      city:
-        label: City
-        type: text
+  footnotes:
+    label: Footnotes
+    type: textarea
 

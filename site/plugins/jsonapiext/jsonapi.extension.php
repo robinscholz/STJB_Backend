@@ -63,6 +63,11 @@ jsonapi()->register([
 				);
 			};
 
+			$clients = array();
+			foreach($information->clients()->yaml() as $client) {
+				$clients[] = $client['client'];
+			}
+
 			//Information
 			$json["2-information"] = array(
 				'title' => (string)site()->title(),
@@ -73,7 +78,8 @@ jsonapi()->register([
 				'country' => (string)$information->country(),
 				'email' => (string)$information->mail(),
 				'phone' => (string)$information->phone(),
-				// 'clients' => $clients,
+				'footnotes' => (string)$information->footnotes()->kirbytext(),
+				'clients' => $clients,
 			);
 
 			return json_encode($json);
