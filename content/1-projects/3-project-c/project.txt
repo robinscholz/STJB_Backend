@@ -1,0 +1,13 @@
+Title: Project C
+
+----
+
+Text: Showcase is a book about books that looks like a book and feels like a book. Some books inside are really old books, some books are newer books. They are all interesting books.
+
+----
+
+Sizing: thumbs
+
+----
+
+Mainimg: stsz_stbi_showcase_01.jpg
