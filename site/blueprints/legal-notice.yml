@@ -1,0 +1,16 @@
+title: Legal Notice
+pages: false
+files: false
+options:
+  status: false
+  template: false
+  url: false
+  preview: false
+  delete: false
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
