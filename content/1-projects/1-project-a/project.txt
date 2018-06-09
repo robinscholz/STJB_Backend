@@ -6,8 +6,8 @@ Text: Olaf Metzel *dermassen regiert zu werden*, Verlag für Moderne Kunst/ Neu
 
 ----
 
-Sizing: medium
+Sizing: small
 
 ----
 
-Mainimg: stsz_mami_crossbenching_3.jpg
+Mainimg: ll-cover-1.jpg

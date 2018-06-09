@@ -10,4 +10,4 @@ Sizing: small
 
 ----
 
-Mainimg: wcidfyt_installationview_04.jpg
+Mainimg: showcase-book.jpg

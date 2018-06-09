@@ -6,8 +6,8 @@ Text: Test Project
 
 ----
 
-Sizing: large
+Sizing: medium
 
 ----
 
-Mainimg: graduationshow_signage_retouched_01.jpg
+Mainimg: v-j-on-heat.png

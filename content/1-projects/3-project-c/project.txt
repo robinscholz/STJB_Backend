@@ -6,8 +6,8 @@ Text: Showcase is a book about books that looks like a book and feels like a boo
 
 ----
 
-Sizing: thumbs
+Sizing: medium
 
 ----
 
-Mainimg: stsz_stbi_showcase_01.jpg
+Mainimg: showcase-poster.jpg
