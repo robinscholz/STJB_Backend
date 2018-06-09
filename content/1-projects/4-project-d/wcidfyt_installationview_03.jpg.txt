@@ -1,5 +1,0 @@
-Sizing: contained
-
-----
-
-Bgcolor: black

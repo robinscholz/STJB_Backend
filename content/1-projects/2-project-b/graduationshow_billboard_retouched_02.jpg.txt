@@ -1,5 +1,0 @@
-Sizing: fullscreen
-
-----
-
-Bgcolor: white
