@@ -81,7 +81,8 @@ jsonapi()->register([
 				'phone' => (string)$information->phone(),
 				'footnotes' => (string)$information->footnotes()->kirbytext(),
 				'clients' => $clients,
-				'legalnotice' => (string)$legalnotice->text()->kirbytext()
+				'legalnotice' => (string)$legalnotice->text()->kirbytext(),
+				'pdf' => (string)$information->pdf()->toFile()->url()
 			);
 
 			return json_encode($json);

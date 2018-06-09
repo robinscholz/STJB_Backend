@@ -1,6 +1,7 @@
 title: Information
 pages: false
-files: false
+files: true
+  type: document
 options:
   status: false
   template: false
@@ -49,4 +50,8 @@ fields:
   footnotes:
     label: Footnotes
     type: textarea
+  pdf:
+    label: PDF
+    type: select 
+    options: documents
 
