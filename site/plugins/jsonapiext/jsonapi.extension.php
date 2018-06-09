@@ -9,6 +9,7 @@ jsonapi()->register([
 			$projects = page("projects");
 			$collection = $projects->children()->visible();
 			$information = page("information");
+			$legalnotice = page("legal-notice");
 			$json = array();
 
 			//Projects API
@@ -80,6 +81,7 @@ jsonapi()->register([
 				'phone' => (string)$information->phone(),
 				'footnotes' => (string)$information->footnotes()->kirbytext(),
 				'clients' => $clients,
+				'legalnotice' => $legalnotice->text()
 			);
 
 			return json_encode($json);
