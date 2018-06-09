@@ -21,7 +21,7 @@ jsonapi()->register([
 				foreach($project->images()->sortBy('sort', 'asc') as $img) {
 					$n++;
 					$images[$n] = array(
-						"url" => $img->url(), 
+						"url" => $img->resize(3000, 3000, 0.8)->url(), 
 						"num" => (string)$n,
 						"orientation" => (string)$img->orientation(),
 						"ratio" => (string)$img->ratio(),
@@ -29,6 +29,16 @@ jsonapi()->register([
 						"bgcolor" => (string)$img->bgcolor(),
 					);
 				};
+
+				$main = $project->mainimg()->toFile();
+				$mainimg = array(
+					"url" => $main->resize(3000, 3000, 0.8)->url(), 
+					"num" => (string)$n,
+					"orientation" => (string)$main->orientation(),
+					"ratio" => (string)$main->ratio(),
+					"size" => (string)$main->sizing(),
+					"bgcolor" => (string)$main->bgcolor(),
+				);
 
 				//Thumbs
 				$n = 0;
@@ -47,6 +57,7 @@ jsonapi()->register([
 					"size" => (string)$project->sizing(),
 					'title' => (string)$project->title(),
 					'text' => (string)$project->text()->kirbytext(),
+					'mainimg' => $mainimg,
 					'images' => $images,
 					'thumbs' => $thumbs,
 				);
