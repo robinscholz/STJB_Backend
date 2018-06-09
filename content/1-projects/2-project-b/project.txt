@@ -10,4 +10,4 @@ Sizing: large
 
 ----
 
-Mainimg: graduationshow_billboards_retouched_01.jpg
+Mainimg: graduationshow_signage_retouched_01.jpg
