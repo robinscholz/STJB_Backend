@@ -10,4 +10,4 @@ Sizing: small
 
 ----
 
-Mainimg: ll-cover-1.jpg
+Mainimg: LL-bookmark.jpg
