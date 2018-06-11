@@ -1,6 +1,6 @@
 title: Information
 pages: false
-files: true
+files:
   type: document
 options:
   status: false
