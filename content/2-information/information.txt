@@ -35,9 +35,9 @@ About:
 The Studio is mostly working for clients in the cultural domain: designing books, catalogs, visual identities and exhibitions—and its digital pendants. The content–based design solutions have been awarded prizes in national/international competitions. Johannes Bissinger (MA from ZHdK in Zurich, 2010) cooperates with a network of partners in creation and production.
 
 - conceptual, strategic and content–based approach
-- progressive and simple (reduced) appearence
-- emphasis to design, material, detail and quality of production
-- best way of conveying each content to the audience
+- progressive, yet simple (reduced) appearence
+- emphasis on design, material, detail and quality of production
+- optimal mediation of respective content to the audience
 
 ----
 
@@ -48,12 +48,10 @@ Clients:
 - 
   client: Bauhaus Dessau Foundation (6)
 - 
-  client: >
-    Bayerische Staatsbibliothek, München
-    (3)
+  client: Bayerische Staatsbibliothek München (3)
 - 
   client: >
-    DG – Deutsche Gesellschaft für
+    DG—Deutsche Gesellschaft für
     christliche Kunst
 - 
   client: Deutsche Meisterschule für Mode
@@ -66,9 +64,9 @@ Clients:
 - 
   client: Germanisches Nationalmuseum
 - 
-  client: Hecht Richter, Hamburg
+  client: Hecht Richter
 - 
-  client: Heuer am Karlsplatz, Wien
+  client: Heuer am Karlsplatz Wien
 - 
   client: Hochschule München
 - 
@@ -86,9 +84,9 @@ Clients:
 - 
   client: Museum FC Zürich
 - 
-  client: Museum für Gestaltung, Zürich
+  client: Museum für Gestaltung Zürich
 - 
-  client: Neues Museum, Nürnberg
+  client: Neues Museum Nürnberg
 - 
   client: OK–Landschaftsarchitekten
 - 
@@ -105,19 +103,21 @@ Clients:
   client: ZHdK—Zürcher Hochschule der Künste
 - 
   client: >
-    Zentralinstitut für Kunstgeschichte,
+    Zentralinstitut für Kunstgeschichte
     München
 
 ----
 
 Footnotes: 
-- The book V+J! for Diözesanmuseum Freising was awarded as one of the Most Beautiful German books, 2018 
-- The catalog *Best Book Design from all over the World* (2017) for Stiftung Buchkunst and as well the project —  
-- *Showcase* for the Bavarian State Library in Munich were selected to be exhibited at Brno Biennial, 2018 
-- The catalog *Best Book Design from all over the World* (2015) for Stiftung Buchkunst received a Certificate of Typographic Excellence at TDC 62 in New York, 2016  
-- The book *Dermaßen regiert zu werden* for Olaf Metzel was awarded as one of the Most Beautiful Austrian books, 2015 
-- Johannes Bissinger and Christian Lange were selected as Annual Graphic Designers for Bauhaus Dessau Foundation, 2014 - The Corporate Design (program, poster, et.al) for Residenztheater was honored at: Art Direcors Club (three times), Red Dot Award and 100 beste Plakate
+
+- The book V+J! (Vivat Jesus) for Diözesanmuseum Freising was awarded as one of the *Most Beautiful German books,* 2018 
+- The catalog Best Book Design from all over the World (2017) for Stiftung Buchkunst and as well the project —  
+- Showcase for the Bavarian State Library in Munich were selected to be exhibited at the *28th International Biennial for Graphic Design Brno,* 2018 
+- The catalog Best Book Design from all over the World (2015) for Stiftung Buchkunst received a *Certificate of Typographic Excellence* at TDC 62 in New York, 2016  
+- The book Dermaßen regiert zu werden for Olaf Metzel was awarded as one of the *Most Beautiful Austrian books,* 2016 
+- Johannes Bissinger and Christian Lange were selected as *Annual Graphic Designers* for Bauhaus Dessau Foundation, 2014 
+- The Corporate Design (program, poster, et.al) for Residenztheater was honored at: *Art Directors Club (three times), Type Directors Club, Red Dot Award and 100 beste Plakate*
 
 ----
 
-Pdf: dhl-marke-naz69ndvyw.pdf
+Pdf: Profile.pdf

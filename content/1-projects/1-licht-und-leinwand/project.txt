@@ -2,7 +2,7 @@ Title: Licht und Leinwand
 
 ----
 
-Text: Licht und Leinwand – Malerei und Fotografie im 19. Jahrhundert. Catalog (22x27 cm, 336 pages) for the same named Exhibition at Germanischen Nationalmuseum Nürnberg; with Thomas Gothier, 2018
+Text: Recent project: Licht und Leinwand – Malerei und Fotografie im 19. Jahrhundert. Catalog (bookmark) for the same-titled exhibition at Germanisches Nationalmuseum Nürnberg; with Thomas Gothier, 2018
 
 ----
 
@@ -10,4 +10,4 @@ Sizing: small
 
 ----
 
-Mainimg: LL-bookmark.jpg
+Mainimg: ll-bookmark-1.jpg
