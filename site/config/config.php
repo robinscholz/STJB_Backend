@@ -29,10 +29,8 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
-c::set('debug', true);
+c::set('debug', false);
 c::set('panel.install', true);
-// c::set('url', 'https://cms.studiojohannesbissinger.com');
-
 
 c::set('jsonapi.built-in.enabled', true);
 c::set('jsonapi.built-in.auth', false);
