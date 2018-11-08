@@ -1,6 +1,6 @@
 {
     "name": "robinscholz/stjb_backend",
-    "description": "Kirby powered backend for Studio Johannes Bissinger",
+    "description": "Backend for graphic designer Johannes Bissinger",
     "type": "project",
     "authors": [
         {
