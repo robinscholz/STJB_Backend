@@ -3,5 +3,6 @@
 /assets/avatars
 /thumbs/*
 /vendor/
+/content/*
 
 sftp-config.json
